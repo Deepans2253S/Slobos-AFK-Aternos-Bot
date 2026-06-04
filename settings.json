@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "nethergod",
     "password": "",
     "type": "offline"
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Follow deep.ans2253s on instagram!",
         "I like to play Minecraft!"
       ]
     },
@@ -64,7 +64,7 @@
     "chat": true,
     "console-commands": true
   },
-  "combat": {
+  "combat": {true
     "attack-mobs": true,
     "auto-eat": true
   },
